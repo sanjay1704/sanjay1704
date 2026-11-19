@@ -1,89 +1,70 @@
-# Hi, I'm Sanjay K 👋
+# 👋 Hello, I'm Sanjay K
 
-### Java Backend Developer | Full-Stack Developer | Software Engineer
+\<h3 align="center">SOFTWARE ENGINEER | JAVA BACKEND | FULL-STACK DEVELOPER\</h3>
 
-I am a passionate Software Engineer focused on building scalable backend systems, full-stack web applications, and intelligent software solutions. I enjoy solving real-world problems through clean code, efficient system design, and modern technologies.
+\<p align="center">   \<b>Building scalable applications • Designing backend systems • Exploring AI technologies\</b> \</p>
 
-- 💻 Interested in **Backend Engineering, Full-Stack Development & Software Architecture**
-- ☕ Building applications with **Java, Spring Boot, React.js & REST APIs**
-- 🗄️ Working with **SQL, MySQL, SQLite & NoSQL databases**
-- ☁️ Exploring **AWS, Docker & Cloud Technologies**
-- 🤖 Interested in **Machine Learning, Deep Learning & Hugging Face**
-- 🚀 Always learning, building, and improving my engineering skills.
+\<p align="center">   \<a href="[https://github.com/sanjay1704](https://github.com/sanjay1704)">     \<img src="[https://komarev.com/ghpvc/?username=sanjay1704&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=sanjay1704\&label=PROFILE%20VIEWS\&color=0e75b6\&style=for-the-badge)" alt="Profile Views"/>   \</a> \</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I'm a technology enthusiast and software developer passionate about creating reliable, scalable, and efficient software solutions.
 
-### Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Cloud, DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### AI & Machine Learning
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+- 💻 Focused on **Java Backend Engineering and Full-Stack Development**
+- ⚙️ Building backend applications using **Java, Spring Boot and REST APIs**
+- 🌐 Developing modern web interfaces with **React.js and JavaScript**
+- 🗄️ Working with relational and NoSQL database technologies
+- ☁️ Exploring cloud infrastructure, containerization and deployment
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🎯 Continuously improving problem-solving and software engineering skills
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Technology Stack
 
-### 🏆 Athens Sports Emporium
-Full-stack sports e-commerce application built using React.js and MySQL.
+**Programming Languages**
 
-### 🌱 Vegetable Price Prediction
-Machine learning project using LSTM to predict vegetable prices from historical data.
+\<p> \<img src="[https://skillicons.dev/icons?i=java,cpp,python,js](https://skillicons.dev/icons?i=java,cpp,python,js)" /> \</p>
 
-### 💻 Backend Development Projects
-Java and Spring Boot applications with REST API development and database integration.
+**Backend & Frontend Development**
 
-### 🤖 AI & Machine Learning Projects
-Exploring intelligent applications using machine learning, deep learning, and modern AI technologies.
+\<p>
+\<img src="[https://skillicons.dev/icons?i=spring,react,html,css](https://skillicons.dev/icons?i=spring,react,html,css)" />
+\</p>
 
----
+**Databases**
 
-## 📊 GitHub Statistics
+\<p> \<img src="[https://skillicons.dev/icons?i=mysql,mongodb,sqlite](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)" /> \</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay1704&show_icons=true&theme=tokyonight&hide_border=true)
+**Cloud, DevOps & Tools**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1704&layout=compact&theme=tokyonight&hide_border=true)
+\<p> \<img src="[https://skillicons.dev/icons?i=aws,docker,git,github,vscode](https://skillicons.dev/icons?i=aws,docker,git,github,vscode)" /> \</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjay1704&theme=tokyonight&hide_border=true)
+**AI & Machine Learning**
 
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay1704)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+\<p>
+\<img src="[https://skillicons.dev/icons?i=tensorflow,python](https://skillicons.dev/icons?i=tensorflow,python)" />
+\<img src="[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)" />
+\</p>
 
 ---
 
-### 💡 My Engineering Philosophy
+## 📈 GitHub Analytics
 
-> Build with purpose. Write clean code. Solve real-world problems. Never stop learning.
+\<p align="center">   \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=sanjay1704&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=sanjay1704\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />   \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1704&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1704\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
 
-⭐ Thanks for visiting my GitHub profile!
+\<p align="center">   \<img width="75%" src="[https://streak-stats.demolab.com?user=sanjay1704&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=sanjay1704\&theme=tokyonight\&hide_border=true)" /> \</p>
+
+---
+
+## 🤝 Let's Connect
+
+\<p align="center">   \<a href="[https://github.com/sanjay1704](https://github.com/sanjay1704)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>   \</a>   \<a href="YOUR_LINKEDIN_URL">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>   \</a> \</p>
+
+\<p align="center">   \<b>Open to Software Engineering Opportunities and Technical Collaborations.\</b> \</p>
+
+\<p align="center">
+&#x20; \<i>"Great software is built with curiosity, consistency, and a passion for solving problems."\</i>
+\</p>
